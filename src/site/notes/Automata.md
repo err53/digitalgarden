@@ -18,5 +18,6 @@ $F \subseteq Q$ is the set of **final states**
 
 Deterministic means that the next transition is predetermined (always known) given the current state
 
+[[Finite State Automata\|Finite State Automata]]
 
 See also: [[NieR Automata\|NieR Automata]]
