@@ -4,7 +4,7 @@
 
 [[Process\|Process]], [[Threads\|Threads]], [[Concurrent System\|Concurrent System]] and [[Parallelism\|Parallelism]]
 [[Concurrent System\|Concurrent System]]
-[[Petri Net\|Petri Net]]
+[[Elementary Petri Net\|Elementary Petri Net]]
 Synchronization mechanisms
 Resource management and Sharing
 Objects and Concurrency
