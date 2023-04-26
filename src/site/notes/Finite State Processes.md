@@ -24,3 +24,6 @@ OFF    = ((on -> off) -> OFF).
 SWITCH = (on -> off -> SWITCH).
 ```
 
+## Extensions
+[[Process Labeling\|Process Labeling]]
+[[Action Relabelling\|Action Relabelling]]
