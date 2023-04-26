@@ -12,8 +12,16 @@ is exact, then $\mu(x, y)$ is an integrating factor
 
 ## Finding Integrating factor
 
-Let $\frac{\delta f}{\delta x} = f_x$ and $\frac{\delta f}{\delta y} = f_y$
+Let $\frac{\partial f}{\partial x} = f_x$ and $\frac{\partial f}{\partial y} = f_y$
 
-- Solve $\mu_y M + \mu M_y = \mu_X N + \mu N_x$
+- Solve $\mu_y M + \mu M_y = \mu_x N + \mu N_x$
 	- PDE, so generally hard to solve, simplify by assuming $\mu(x, y) = \mu(x)$ or $\mu(x, y) = \mu(y)$
-- If we assume $\mu(x, y) = \mu(x)$
+- If we assume $\mu(x, y) = \mu(x)$, equation reduces to
+$$
+\mu M_y = \mu_x N + \mu N_x \Longrightarrow \frac{d \mu}{dx} = \mu(x) \frac{M_y - N_x}{N}
+$$
+- Assume, $\mu(x, y) = \mu(y)$, reduces to
+$$
+\mu_y M + \mu M_y = \mu N_x \Longrightarrow \frac{d \mu}{dy} = \mu(y) \frac{N_x - M_y}{M}
+$$
+
