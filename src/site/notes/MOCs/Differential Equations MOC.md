@@ -9,7 +9,7 @@
 [[Visualizing Solutions without Solving\|Visualizing Solutions without Solving]]
 [[Critical Point\|Critical Point]]
 
-[[Integrating Factor\|Integrating Factor]]
+[[Integrating Factor for Second Order ODEs\|Integrating Factor for Second Order ODEs]]
 
 Test 1 Prep:
 ## Definitions
