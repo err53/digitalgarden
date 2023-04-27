@@ -14,6 +14,10 @@
 [[Autonomous ODE\|Autonomous ODE]] and [[Non-Autonomous ODE\|Non-Autonomous ODE]]
 [[Linear ODE\|Linear ODE]] ([[Linear vs Non-linear\|Linear vs Non-linear]])
 
+## Word Problems
+[[Mixing Problems\|Mixing Problems]]
+[[Newton's Law of Cooling\|Newton's Law of Cooling]]
+
 [[Partial Differential Equation\|Partial Differential Equation]]
 
 ## Graphing Stuff
