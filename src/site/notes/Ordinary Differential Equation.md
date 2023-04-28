@@ -44,5 +44,5 @@ ODEs can be written in [[Implicit Form\|Implicit Form]]
 [[Solving Second Order Linear Constant Coefficient Homogenous ODEs\|Solving Second Order Linear Constant Coefficient Homogenous ODEs]]
 
 See Also:
-[[Separable Differential Equations\|Separable Differential Equations]]
+[[Separable First Order ODEs\|Separable First Order ODEs]]
 [[Applications of Separable ODEs\|Applications of Separable ODEs]]
