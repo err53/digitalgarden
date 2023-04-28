@@ -10,6 +10,8 @@
 
 # Pre Midterm 1
 [[Ordinary Differential Equation\|Ordinary Differential Equation]]
+	[[Separable First Order ODEs\|Separable First Order ODEs]]
+[[Existence and Uniqueness Theorem for First Order Nonlinear Differential Equations\|Existence and Uniqueness Theorem for First Order Nonlinear Differential Equations]]
 [[Homogenous ODE\|Homogenous ODE]]
 [[Autonomous ODE\|Autonomous ODE]] and [[Non-Autonomous ODE\|Non-Autonomous ODE]]
 [[Linear ODE\|Linear ODE]] ([[Linear vs Non-linear\|Linear vs Non-linear]])
@@ -25,7 +27,7 @@
 [[Isocline\|Isocline]]
 
 ## First Order DEs
-[[Separable Differential Equations\|Separable Differential Equations]]
+[[Separable First Order ODEs\|Separable First Order ODEs]]
 [[Applications of Separable ODEs\|Applications of Separable ODEs]]
 [[Exact ODE\|Exact ODE]]
 [[Bernoulli's Equation\|Bernoulli's Equation]]
@@ -49,3 +51,10 @@
 # Post Midterm 2
 [[Convolution\|Convolution]]
 [[Heaviside Function\|Heaviside Function]]
+
+## Power Series Stuff
+[[Analytic Function\|Analytic Function]]
+[[Ordinary Point\|Ordinary Point]]
+[[Singular Point\|Singular Point]]
+
+[[Existence of Power Set Solutions near Ordinary Points\|Existence of Power Set Solutions near Ordinary Points]]
