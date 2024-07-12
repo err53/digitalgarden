@@ -37,7 +37,7 @@ In other words, given a power series $\sum_{n=0}^\infty c_n (x - x_0)^n$ centred
 </div></div>
 
 
-## Random things of note
+## Random Things of Note
 
 In the case of $x = a$, the power series will always converge
 Generally, using the [[Ratio Test\|Ratio Test]] or [[Root Test\|Root Test]] will be most successful

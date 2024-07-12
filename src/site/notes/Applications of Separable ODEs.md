@@ -20,7 +20,7 @@ Generally $y$ represents the amount of stuff in the liquid, with the rate in as 
 
 [[Exponential Growth and Decay\|Exponential Growth and Decay]]
 
-## Newton's law for cooling
+## Newton's Law for Cooling
 
 $T_s:$ temperature of the surrounding environment
 $T(t):$ temperature at time $t$

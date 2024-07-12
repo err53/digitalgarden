@@ -55,7 +55,7 @@ $
 $
 is exact, then $\mu(x, y)$ is an integrating factor
 
-## Finding Integrating factor
+## Finding Integrating Factor
 
 Let $\frac{\partial f}{\partial x} = f_x$ and $\frac{\partial f}{\partial y} = f_y$
 

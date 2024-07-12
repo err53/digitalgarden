@@ -9,7 +9,7 @@ u(t - \tau) =
 1 & \textit{if} & t \geq \tau \\
 \end{cases}
 $$
-![Screenshot 2023-04-26 at 7.15.05 PM.png](/img/user/_attachments/Screenshot%202023-04-26%20at%207.15.05%20PM.png)
+![Screenshot 2023-04-26 at 7.15.05 PM.png](/img/user/Attachments/Screenshot%202023-04-26%20at%207.15.05%20PM.png)
 
 ## Theorem (Translation in $t$)
 

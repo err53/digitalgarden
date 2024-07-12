@@ -4,7 +4,7 @@
 
 #math/2c03 
 
-## unsorted shit i need to study
+## Unsorted Shit I Need to Study
 [[Cauchy-Euler\|Cauchy-Euler]]
 
 [[Partial Differential Equation\|Partial Differential Equation]]

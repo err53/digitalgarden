@@ -12,7 +12,7 @@ Directed bipartite graph with
 - Initial marking, tokens in places
 
 eg:
-![Pasted image 20230123133150.png](/img/user/_attachments/Pasted%20image%2020230123133150.png)
+![Pasted image 20230123133150.png](/img/user/Attachments/Pasted%20image%2020230123133150.png)
 
 Modifications to it include:
 [[PT Petri Net\|PT Petri Net]]

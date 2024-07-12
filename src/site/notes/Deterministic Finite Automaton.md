@@ -12,7 +12,7 @@ Structure $M = (Q, \Sigma, \delta, s, F)$ where
 ## Slide Notation
 - Double circle is the "final" state that we want, accept if we end at that point
 
-## Book notation
+## Book Notation
 - circle around final state
 
 

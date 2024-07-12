@@ -24,6 +24,7 @@
 
 
 
+
 - 'Owned by' another entity
 - Can be uniquely identified in conjunction with owning entities
 
@@ -37,6 +38,7 @@ Don't use weak entities if you can use simpler constructs
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 
