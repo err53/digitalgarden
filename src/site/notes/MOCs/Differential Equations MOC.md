@@ -44,4 +44,4 @@ Test 1 Prep:
 - Some of the earlier stuff added
 - Mixing problems, newton's law of cooling,
 - Theorems are on it, no "hard" proofs (eg laplace shit in lecs) :wink:
-[[Math 2C03 Final\|Math 2C03 Final]]
+[[Review/Math 2C03 Final\|Math 2C03 Final]]
