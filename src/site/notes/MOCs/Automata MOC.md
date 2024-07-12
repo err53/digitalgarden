@@ -5,6 +5,6 @@
 [[Automata\|Automata]]
 [[Models of Computation\|Models of Computation]]
 
-[[Deterministic Finite Automata\|Deterministic Finite Automata]]
+[[Deterministic Finite Automaton\|Deterministic Finite Automaton]]
 
-[[2AC3 Conventions\|2AC3 Conventions]]
+[[Review/2AC3 Conventions\|2AC3 Conventions]]

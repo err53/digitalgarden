@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/method-of-undetermined-coefficients/"}
 ---
 
-#math-2c03
+#math/2c03
 
 Used to find particular solution to non-homogenous, linear, constant coefficient ODE $L[y] = g(x)$ when $g(x)$ is linear combination of functions of the form
 

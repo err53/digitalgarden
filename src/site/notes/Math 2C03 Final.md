@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/math-2-c03-final/"}
 ---
 
-#math-2c03 
+#math/2c03 
 
 ## unsorted shit i need to study
 [[Cauchy-Euler\|Cauchy-Euler]]
 
+[[Partial Differential Equation\|Partial Differential Equation]]
 
 # Pre Midterm 1
 [[Ordinary Differential Equation\|Ordinary Differential Equation]]
@@ -20,7 +21,7 @@
 [[Mixing Problems\|Mixing Problems]]
 [[Newton's Law of Cooling\|Newton's Law of Cooling]]
 
-[[Partial Differential Equation\|Partial Differential Equation]]
+[[Exact ODE\|Exact ODE]]
 
 ## Graphing Stuff
 [[Critical Point\|Critical Point]]
@@ -53,6 +54,7 @@
 [[Heaviside Function\|Heaviside Function]]
 
 ## Power Series Stuff
+[[Power Series\|Power Series]]
 [[Analytic Function\|Analytic Function]]
 [[Ordinary Point\|Ordinary Point]]
 [[Singular Point\|Singular Point]]

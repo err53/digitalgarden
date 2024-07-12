@@ -15,3 +15,9 @@ Structure $M = (Q, \Sigma, \delta, s, F)$ where
 ## Book notation
 - circle around final state
 
+
+
+[[Regular Set\|Regular Set]]
+
+See also:
+[[Nondeterministic Finite Automata\|Nondeterministic Finite Automata]]
